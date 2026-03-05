@@ -1,0 +1,1 @@
+data for "Invariant Curves and the Variational Structure in Tubular Origami Dynamical Systems"
